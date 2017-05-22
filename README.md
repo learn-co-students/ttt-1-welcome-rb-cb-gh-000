@@ -20,7 +20,7 @@ We're going to build a simple program that implements only the very first thing 
 5. Read output.
 6. If still broken, repeat 3-5
 7. If passing, submit with `learn submit`
-
+puts "Welcome to Tic Tac Toe!"
 ## Troubleshooting
 
 Here are some things you can try to get more clues to solve the lab.
