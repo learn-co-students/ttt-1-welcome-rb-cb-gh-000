@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/lib/welcome.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+              <caret column="30" selection-start-column="30" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -106,6 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -137,12 +138,12 @@
       <updated>1555616609626</updated>
       <workItem from="1555616611000" duration="597000" />
       <workItem from="1555619974996" duration="1213000" />
-      <workItem from="1555863823671" duration="673000" />
+      <workItem from="1555863823671" duration="985000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2483000" />
+    <option name="totallyTimeSpent" value="2795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="927" height="1055" extended-state="4" />
@@ -197,7 +198,7 @@
     <entry file="file://$PROJECT_DIR$/lib/welcome.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
